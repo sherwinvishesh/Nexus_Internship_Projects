@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "k@gmail.com",
+      "email": "King",
+      "mobile": "689469497474",
+      "address": "Somewhere",
+      "services": "Food"
+    },
+    {
+      "id": 3,
+      "name": "boss@gmail.com",
+      "email": "Boss",
+      "mobile": "869497649754",
+      "address": "Mumbai",
+      "services": "Chai"
+    }
+  ],
+  "signup": [
+    {
+      "name": "Dipankar",
+      "email": "dborah407@gmail.com",
+      "mobile": "1234567890",
+      "password": "Dipankar@123",
+      "id": 3
+    },
+    {
+      "name": "Dipankar",
+      "email": "d@gmail.com",
+      "mobile": "123456789",
+      "password": "1234",
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

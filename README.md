@@ -16,7 +16,7 @@ This project is a simple Login and Signup Page developed using HTML, CSS, and Ja
     ```
 2. Open `index.html` in your web browser to view the login and signup page.
 
-## Project 2: Restaurant Management App
+## Project 2: Restaurant Management Web Application
 
 ### Description
 The Restaurant Management App is a simple application that provides basic functionality for managing restaurant user details. Users can sign up, log in, and access the restaurant dashboard to perform actions like adding, editing, deleting, and saving records.
